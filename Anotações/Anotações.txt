@@ -1,1 +1,11 @@
 Primeira Repositorio criado sozinho
+
+comandos do Git 
+
+- abrir pasta com git Bash
+- colar link do Repositorio Criado no GitHub
+- para salvar alterações feitas no projeto
+
+- git add . ou git add -A para adc todos os arquivos
+- git commit -m "Mensagem"
+- git push origin main para enviar todos os arquivos locais para GitHub
